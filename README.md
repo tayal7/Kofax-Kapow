@@ -1,1 +1,1 @@
-# Kofax-Kapow
+# Study material and Certificate
